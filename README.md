@@ -1,4 +1,4 @@
-Journey of a Humble Programmer 🚀
+Journey of a JuniorProgrammer 🚀
 "The beauty of a living thing is not the atoms that go into it, but the way those atoms are put together." - Carl Sagan
 
 Welcome to My Digital Garden 🌱
