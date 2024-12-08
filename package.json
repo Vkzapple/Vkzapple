@@ -1,0 +1,15 @@
+{
+  "name": "vkzapple",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   <div align=\"center\">\r     <img src=\"https://img.shields.io/badge/-%3C%2F%3E%20with%20%E2%99%A5%20by%20-gray.svg?colorB=62825D&style=flat\" />\r     <img src=\"https://img.shields.io/badge/-Evelly%20Khanzania%20Putri-gray.svg?colorB=62825D&style=flat\" />\r   </div>\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
