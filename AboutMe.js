@@ -1,6 +1,6 @@
-import aboutMe from "./AboutMe.ts";
+import aboutMe from "./aboutMe.ts";
 import React from "react";
-import aboutMe from "./AboutMe.ts";
+import aboutMe from "./aboutMe.ts";
 
 const AboutMe = () => {
   return (
