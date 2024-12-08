@@ -1,6 +1,8 @@
+import aboutMe from './aboutMe';
+
 <h1 align="center">
   <div align="center">
-    <img src="https://img.shields.io/badge/-%3C%2F%3E%20with%20%E2%99%A5%20by%20-gray.svg?colorB=62825D&style=flat" />
+    <!-- <img src="https://img.shields.io/badge/-%3C%2F%3E%20with%20%E2%99%A5%20by%20-gray.svg?colorB=62825D&style=flat" /> -->
     <img src="https://img.shields.io/badge/-Evelly%20Khanzania%20Putri-gray.svg?colorB=62825D&style=flat" />
   </div>
 </h1>
@@ -47,3 +49,87 @@
 <div align="center">
 <!-- tempat ts -->
 </div>
+
+# About Me
+
+## Current Activity
+
+:calendar: **Status:** {{currentActivity.status}}
+:clock: **Timestamp:** {{currentActivity.timestamp}}
+
+## Education
+
+- School: {{education.school}}
+- Major: {{education.major}}
+- Class: {{education.class}}
+
+## Technical Skills
+
+### Languages
+
+{{#each technicalSkills.languages}}
+
+- {{this}}
+  {{/each}}
+
+### Frontend
+
+{{#each technicalSkills.frontend}}
+
+- {{this}}
+  {{/each}}
+
+### Backend
+
+{{#each technicalSkills.backend}}
+
+- {{this}}
+  {{/each}}
+
+### Databases
+
+{{#each technicalSkills.databases}}
+
+- {{this}}
+  {{/each}}
+
+### Tools
+
+{{#each technicalSkills.tools}}
+
+- {{this}}
+  {{/each}}
+
+## Interests
+
+{{#each interests}}
+
+- {{this}}
+  {{/each}}
+
+## Current Focus
+
+{{currentFocus}}
+
+## Hobbies
+
+{{#each hobbies}}
+
+- {{this}}
+  {{/each}}
+
+## Fun Fact
+
+{{funFact}}
+
+## Life Goal
+
+{{getLifeGoal}}
+
+## Current Project
+
+{{getCurrentProject}}
+
+## Inspiration
+
+{{getInspiration}}
