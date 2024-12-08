@@ -1,9 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=38B2AC&center=true&vCenter=true&random=false&width=435&lines=%3CEvelly+Khanzania+Putri%2F%3E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=38B2AC&center=true&vCenter=true&random=false&width=435&lines=Evelly+Khanzania+Putri" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Student+at+SMK+Negeri+1 Jakarta;1%2B+Years+of+Coding+Experience;Passionate+Frontend & Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Student+at+SMK+Negeri+1+Jakarta;1%2B+Years+of+Coding+Experience;Passionate+Frontend+%26+Backend+Developer" alt="Typing SVG" />
 </div>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -18,16 +18,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-<!-- 
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfabsnt&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfabsnt&layout=compact&theme=radical" alt="Top Languages" />
-</div> --> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <h2 align="center">🌟 Current Activity</h2>
 
@@ -48,5 +48,5 @@ const developer = {
 ```
 
 <div align="center">
-  <img src="https://github.com/Vkzapple" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=38B2AC" alt="Profile views" />
 </div>
