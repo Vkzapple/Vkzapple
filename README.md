@@ -33,10 +33,15 @@
 
 ```typescript
 const developer = {
-  name: "Arfa Banyu Santoro",
-  location: "Malang, Indonesia",
-  education: "SMK Telkom Malang",
-  fields: ["Frontend Development", "Web Design", "UI/UX"],
+  name: "Evelly Khanzania Putri",
+  location: "Jakarta, Indonesia",
+  education: "SMK NEGERI 1 JAKARTA",
+  fields: [
+    "Frontend Development",
+    "Backend Development",
+    "Web Design",
+    "UI/UX",
+  ],
   currentFocus: "Building awesome web applications",
   funFact: "I love turning coffee into code ☕",
 };
