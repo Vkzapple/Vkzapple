@@ -44,8 +44,6 @@ import aboutMe from './aboutMe';
 
 ## Current Activity
 
-## Technical Skills
-
 ### Languages
 
 - JavaScript
