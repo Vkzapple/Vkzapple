@@ -1,10 +1,21 @@
-import aboutMe from './aboutMe';
+import React from 'react';
 
-<h1 align="center">
-  <div align="center">
-    <img src="https://img.shields.io/badge/-Evelly%20Khanzania%20Putri-gray.svg?colorB=62825D&style=flat" />
-  </div>
+const ProgrammerNameBadge = () => {
+return (
+<div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-gray-800 to-gray-900">
+<div className="bg-gray-700 p-8 rounded-xl shadow-2xl border-2 border-green-600 transform transition hover:scale-105">
+<h1 className="text-6xl font-mono font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-green-600 tracking-wider">
+{'< Evelly Khanzania Putri />'}
 </h1>
+<div className="mt-4 text-center text-gray-300 font-code text-lg">
+🖥️ Developer | 💻 Programmer | 🌐 Tech Enthusiast
+</div>
+</div>
+</div>
+);
+};
+
+export default ProgrammerNameBadge;
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=62825D&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Student+at+SMK+Negeri+1+Jakarta;1%2B+Years+of+Coding+Experience;Passionate+Frontend+%26+Backend+Developer" alt="Typing SVG" />
