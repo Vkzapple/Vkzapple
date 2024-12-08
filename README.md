@@ -41,10 +41,48 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<h2 align="center">🌟 Current Activity</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Current-Activity-62825D" alt="Current Activity" />
+</h2>
 
-```typescript
-const aboutMe = {
+<div align="center">
+
+```ts
+/**
+ * @file AboutMe.ts
+ * @description Personal profile and current activity
+ * @last-updated 2024
+ */
+
+interface Education {
+  school: string;
+  major: string;
+  class: string;
+}
+
+interface TechnicalSkills {
+  languages: string[];
+  frontend: string[];
+  backend: string[];
+  databases: string[];
+  tools: string[];
+}
+
+interface DeveloperProfile {
+  readonly name: string;
+  location: string;
+  education: Education;
+  technicalSkills: TechnicalSkills;
+  interests: string[];
+  currentFocus: string;
+  hobbies: string[];
+  funFact: string;
+  getLifeGoal(): string;
+  getCurrentProject(): string;
+  getInspiration(): string;
+}
+
+const aboutMe: DeveloperProfile = {
   name: "Evelly Khanzania Putri",
   location: "Jakarta, Indonesia",
   education: {
@@ -70,13 +108,19 @@ const aboutMe = {
   hobbies: ["Coding", "Reading Tech Blogs", "Learning New Technologies"],
   funFact: "I love turning coffee into code ☕",
 
-  getLifeGoal: () =>
-    "To become a successful software engineer and create impactful applications",
-  getCurrentProject: () => "Working on exciting full-stack projects",
-  getInspiration: () => "Technology's potential to change the world",
+  getLifeGoal: function (): string {
+    return "To become a successful software engineer and create impactful applications";
+  },
+  getCurrentProject: function (): string {
+    return "Working on exciting full-stack projects";
+  },
+  getInspiration: function (): string {
+    return "Technology's potential to change the world";
+  },
 };
+
+// Export for portfolio use
+export default aboutMe;
 ```
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=38B2AC" alt="Profile views" />
 </div>
