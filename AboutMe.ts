@@ -1,8 +1,7 @@
-/**
- * @file AboutMe.ts
- * @description Personal profile and current activity
- * @last-updated 2024
- */
+interface CurrentActivity {
+  status: string;
+  timestamp: string;
+}
 
 interface Education {
   school: string;
@@ -27,6 +26,7 @@ interface DeveloperProfile {
   currentFocus: string;
   hobbies: string[];
   funFact: string;
+  currentActivity: CurrentActivity;
   getLifeGoal(): string;
   getCurrentProject(): string;
   getInspiration(): string;
@@ -57,7 +57,10 @@ const aboutMe: DeveloperProfile = {
   currentFocus: "Building full-stack web applications",
   hobbies: ["Coding", "Reading Tech Blogs", "Learning New Technologies"],
   funFact: "I love turning coffee into code ☕",
-
+  currentActivity: {
+    status: "Working on exciting full-stack projects 🚀",
+    timestamp: new Date().toISOString(),
+  },
   getLifeGoal: function (): string {
     return "To become a successful software engineer and create impactful applications";
   },
@@ -69,5 +72,4 @@ const aboutMe: DeveloperProfile = {
   },
 };
 
-// Export for portfolio use
 export default aboutMe;
