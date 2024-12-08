@@ -1,8 +1,5 @@
 <h1 align="center">
-  <div align="center">
-    <img src="https://img.shields.io/badge/-%3C%2F%3E%20with%20%E2%99%A5%20by%20-gray.svg?colorB=62825D&style=flat" />
-    <img src="https://img.shields.io/badge/-Evelly%20Khanzania%20Putri-gray.svg?colorB=62825D&style=flat" />
-  </div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=38B2AC&center=true&vCenter=true&random=false&width=435&lines=Evelly+Khanzania+Putri" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
