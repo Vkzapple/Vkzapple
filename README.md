@@ -1,9 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=38B2AC&center=true&vCenter=true&random=false&width=435&lines=%3CArfa+Banyu+Santoro%2F%3E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=38B2AC&center=true&vCenter=true&random=false&width=435&lines=%3CEvelly+Khanzania+Putri%2F%3E" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Student+at+SMK+Telkom+Malang;2%2B+Years+of+Coding+Experience;Passionate+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Student+at+SMK+Negeri+1 Jakarta;1%2B+Years+of+Coding+Experience;Passionate+Frontend & Backend+Developer" alt="Typing SVG" />
 </div>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
