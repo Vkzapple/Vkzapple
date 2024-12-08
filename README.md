@@ -2,7 +2,6 @@ import aboutMe from './aboutMe';
 
 <h1 align="center">
   <div align="center">
-    <!-- <img src="https://img.shields.io/badge/-%3C%2F%3E%20with%20%E2%99%A5%20by%20-gray.svg?colorB=62825D&style=flat" /> -->
     <img src="https://img.shields.io/badge/-Evelly%20Khanzania%20Putri-gray.svg?colorB=62825D&style=flat" />
   </div>
 </h1>
@@ -43,25 +42,7 @@ import aboutMe from './aboutMe';
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Current-Activity-62825D" alt="Current Activity" />
-</h2>
-<div align="center">
-<!-- tempat ts -->
-</div>
-
-# About Me
-
 ## Current Activity
-
-:calendar: **Status:** Working on exciting full-stack projects 🚀
-:clock: **Timestamp:** 2024-12-08T00:00:00.000Z
-
-## Education
-
-- School: SMK NEGERI 1 JAKARTA
-- Major: Software Engineering
-- Class: X RPL
 
 ## Technical Skills
 
@@ -123,11 +104,3 @@ I love turning coffee into code ☕
 ## Life Goal
 
 To become a successful software engineer and create impactful applications
-
-## Current Project
-
-Working on exciting full-stack projects
-
-## Inspiration
-
-Technology's potential to change the world
