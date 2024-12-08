@@ -54,82 +54,80 @@ import aboutMe from './aboutMe';
 
 ## Current Activity
 
-:calendar: **Status:** {{currentActivity.status}}
-:clock: **Timestamp:** {{currentActivity.timestamp}}
+:calendar: **Status:** Working on exciting full-stack projects 🚀
+:clock: **Timestamp:** 2024-12-08T00:00:00.000Z
 
 ## Education
 
-- School: {{education.school}}
-- Major: {{education.major}}
-- Class: {{education.class}}
+- School: SMK NEGERI 1 JAKARTA
+- Major: Software Engineering
+- Class: X RPL
 
 ## Technical Skills
 
 ### Languages
 
-{{#each technicalSkills.languages}}
-
-- {{this}}
-  {{/each}}
+- JavaScript
+- TypeScript
+- Java
+- C#
+- PHP
+- HTML
+- CSS
 
 ### Frontend
 
-{{#each technicalSkills.frontend}}
-
-- {{this}}
-  {{/each}}
+- React.js
+- Tailwind CSS
+- Bootstrap
 
 ### Backend
 
-{{#each technicalSkills.backend}}
-
-- {{this}}
-  {{/each}}
+- Node.js
+- Express.js
 
 ### Databases
 
-{{#each technicalSkills.databases}}
-
-- {{this}}
-  {{/each}}
+- MySQL
+- MongoDB
 
 ### Tools
 
-{{#each technicalSkills.tools}}
-
-- {{this}}
-  {{/each}}
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ## Interests
 
-{{#each interests}}
-
-- {{this}}
-  {{/each}}
+- Frontend Development
+- Backend Development
+- Web Design
+- UI/UX Design
+- Mobile Development
 
 ## Current Focus
 
-{{currentFocus}}
+Building full-stack web applications
 
 ## Hobbies
 
-{{#each hobbies}}
-
-- {{this}}
-  {{/each}}
+- Coding
+- Reading Tech Blogs
+- Learning New Technologies
 
 ## Fun Fact
 
-{{funFact}}
+I love turning coffee into code ☕
 
 ## Life Goal
 
-{{getLifeGoal}}
+To become a successful software engineer and create impactful applications
 
 ## Current Project
 
-{{getCurrentProject}}
+Working on exciting full-stack projects
 
 ## Inspiration
 
-{{getInspiration}}
+Technology's potential to change the world
