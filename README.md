@@ -18,16 +18,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
+<!-- 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arfabsnt&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfabsnt&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> --> -->
 
 <h2 align="center">🌟 Current Activity</h2>
 
@@ -48,5 +48,5 @@ const developer = {
 ```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arfabsnt&color=38B2AC" alt="Profile views" />
+  <img src="https://github.com/Vkzapple" alt="Profile views" />
 </div>
