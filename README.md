@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Evelly Khanzania Putri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Student+at+SMK+Negeri+1+Jakarta;Passionate+about+AI+%26+IoT;Full-Stack+Developer+%7C+ML+Enthusiast;Exploring+the+Future+of+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Student+at+SMK+Negeri+1+Jakarta;Passionate+about+AI+%26+IoT;Full-Stack+Developer+%7C+ML+Enthusiast;+2 Years+coding+experience" alt="Typing SVG" />
 </p>
 
 <div align="center">
