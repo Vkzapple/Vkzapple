@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=blueviolet" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=62825D&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Student+at+SMK+Negeri+1+Jakarta;2%2B+Years+of+Coding+Experience;Passionate+Frontend+%26+Backend+Developer" alt="Typing SVG" />
 </div>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -19,18 +19,82 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## 🤝 Connect with Me
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/evelly-khanza)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evellkz/)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+## Current Activity
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Java
+- C#
+- PHP
+- HTML
+- CSS
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Databases
+
+- MySQL
+- MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## Interests
+
+- Frontend Development
+- Backend Development
+- Web Design
+- UI/UX Design
+- Mobile Development
+
+## Current Focus
+
+Building full-stack web applications
+
+## Hobbies
+
+- Coding
+- Reading Tech Blogs
+- Learning New Technologies
+
+## Fun Fact
+
+I love turning coffee into code ☕
+
+## Life Goal
+
+To become a successful software engineer and create impactful applications
