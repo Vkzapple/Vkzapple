@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-
-## ![Profile Views](https://komarev.com/ghpvc/?username=Vkzapple&color=blue)
-
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri!;Let's+Build+Something+Awesome!;Software+Engineering+is+My+Passion!" alt="Typing Animation" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="Coding Animation" />
 </p>
+
+---
+
+## ![Profile Views](https://komarev.com/ghpvc/?username=Vkzapple&color=blue)
 
 ---
 
