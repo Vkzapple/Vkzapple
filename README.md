@@ -2,7 +2,7 @@
   <strong>👋 Hello and welcome to my GitHub! I'm Evelly Khanzania Putri, a dedicated software developer with a deep passion for AI and IoT. Constantly innovating, I specialize in crafting high-quality, scalable solutions that push the boundaries of technology.</strong>
 </p>
 
----
+## ![Profile Views](https://komarev.com/ghpvc/?username=Vkzapple&color=blue)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri!;Let's+Build+Something+Awesome!;Software+Engineering+is+My+Passion!" alt="Typing Animation" />
