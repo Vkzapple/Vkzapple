@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <strong>👋 Hello and welcome to my GitHub! I'm Evelly Khanzania Putri, a dedicated software developer, IoT, and Cyber Security. Constantly innovating, I specialize in crafting high-quality, scalable solutions that push the boundaries of technology.</strong>
-</p>
+</p> -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=blue" alt="Profile Views" />
 </p>
@@ -40,7 +40,7 @@
   <!-- <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
