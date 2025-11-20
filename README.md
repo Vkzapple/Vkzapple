@@ -1,28 +1,24 @@
-<!-- <p align="center">
-  <strong>👋 Hello and welcome to my GitHub! I'm Evelly Khanzania Putri, a dedicated software developer, IoT, and Cyber Security. Constantly innovating, I specialize in crafting high-quality, scalable solutions that push the boundaries of technology.</strong>
-</p> -->
-
 <div align="center">
 <p>
   <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=blue" alt="Profile Views" />
 </p>
 <a href="https://evekz.pages.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6A00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
-</a>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6A00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="profile"/>
+  </a>
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri!;Let's+Build+Something+Awesome!;Software+Engineering+is+My+Passion!" alt="Typing Animation" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="380" alt="Coding Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student at **SMK Negeri 1 Jakarta**
+- 🎓 Software Engineering Student at **SMK Negeri 1 Jakarta**
 - 💻 **Full-Stack Developer💻 | White Hat🛡️🔐 | IoT Developer🤖**
 - 🔬 Passionate about **AI, IoT, Cyber Security, and Software Development**
 - 🌱 Always learning and exploring new technologies
