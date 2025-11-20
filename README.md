@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=blue" alt="Profile Views" />
 </p>
 <a href="https://evekz.pages.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-7E3AF2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6A00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 <p align="center">
