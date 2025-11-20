@@ -1,9 +1,15 @@
 <!-- <p align="center">
   <strong>👋 Hello and welcome to my GitHub! I'm Evelly Khanzania Putri, a dedicated software developer, IoT, and Cyber Security. Constantly innovating, I specialize in crafting high-quality, scalable solutions that push the boundaries of technology.</strong>
 </p> -->
-<p align="center">
+
+<div align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=blue" alt="Profile Views" />
 </p>
+<a href="https://evekz.pages.dev">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-7E3AF2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri!;Let's+Build+Something+Awesome!;Software+Engineering+is+My+Passion!" alt="Typing Animation" />
@@ -33,12 +39,12 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> -->
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> -->
+  <!-- <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
