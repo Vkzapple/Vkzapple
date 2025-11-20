@@ -1,10 +1,12 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vkzapple&color=6A5ACD" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Vkzapple&color=AEDEFC" alt="Profile Views" />
+<img src="https://visitcount.itsvg.in/api?id=Vkzapple&label=Profile%20Views&color=AEDEFC&icon=0&pretty=false" />
+
 
 <a href="https://evekz.pages.dev">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6A5ACD?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-AEDEFC?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -12,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri;Software+Engineering+is+My+Passion;Let's+Build+Something+Awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=AEDEFC&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri;Software+Engineering+is+My+Passion;Let's+Build+Something+Awesome!" />
 </p>
 
 <p align="center">
