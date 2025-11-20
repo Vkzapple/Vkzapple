@@ -2,7 +2,6 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Vkzapple&color=060771" alt="Profile Views" />
-<img src="https://visitcount.itsvg.in/api?id=Vkzapple&label=Profile%20Views&color=060771&icon=0&pretty=false" />
 
 
 <a href="https://evekz.pages.dev">
