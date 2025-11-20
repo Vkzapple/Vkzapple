@@ -5,7 +5,7 @@
 
 
 <a href="https://evekz.pages.dev">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-AEDEFC?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-060771?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
