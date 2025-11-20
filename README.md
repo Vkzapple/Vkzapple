@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Student at **SMK Negeri 1 Jakarta**  
+- 🎓 Software Engineering Student at **SMK Negeri 1 Jakarta**  
 - 💻 **Full-Stack Developer | White Hat | IoT Developer**  
 - 🔐 Passionate about **Cyber Security, AI, and Software Engineering**  
 - 🌱 Always learning and building new things  
@@ -32,6 +32,10 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ### Frontend
 <p align="center">
