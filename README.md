@@ -34,7 +34,7 @@
 ##  Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 <p align="center">
