@@ -26,7 +26,7 @@
 
 - 🎓 Software Engineering Student at **SMK Negeri 1 Jakarta**  
 - 💻 **Full-Stack Developer | White Hat | IoT Developer**  
-- 🔐 Passionate about **Cyber Security, AI, ML, and Software Engineering**  
+- 🔐 Passionate about **Data Science, AI, ML, IoT and Software Engineering**  
 - 🌱 Always learning and building new things  
 
 ---
