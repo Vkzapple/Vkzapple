@@ -23,6 +23,9 @@
 - 🌱 Always exploring new tools and frameworks to sharpen my engineering craft
 
 ## Github Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/main/metrics.svg" width="98%" />
+</p>
 
 <p align="center">
   <img 
