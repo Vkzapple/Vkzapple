@@ -6,8 +6,6 @@
 </a>
 </div>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=AEDEFC&center=true&vCenter=true&width=650&lines=Evelly+Khanzania+Putri;Data+Science+%26+Machine+Learning;Software+Engineer" /> </p> <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRwMWg0a3VuajQ1cHB1azBwYmd1dGh5ejVqa2UxeDFneHNyNmgzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif" width="480" alt="Data Science / Machine Learning Animation"/> 
@@ -17,7 +15,12 @@
 
 ## About Me
 
-Software Engineering student at SMK Negeri 1 Jakarta with a focus on data science and machine learning. Experienced across full-stack development, IoT systems, and applied ML — with an interest in building end-to-end solutions from data collection to deployed models.
+- 🎓 Software Engineering student at **SMK Negeri 1 Jakarta**, specializing in Data Science & Machine Learning
+- 🚀 Full-stack developer with hands-on experience across **web, mobile, and IoT** systems
+- 🤖 Builds end-to-end ML pipelines — from data collection & preprocessing to model deployment
+- 🔌 Experienced integrating **IoT devices** with real-time systems via MQTT & WebSocket
+- 💡 Passionate about turning raw data into actionable, production-ready solutions
+- 🌱 Always exploring new tools and frameworks to sharpen my engineering craft
 
 ## Github Stats
 <!-- GitHub Stats -->
@@ -31,29 +34,24 @@ Software Engineering student at SMK Negeri 1 Jakarta with a focus on data scienc
     width="49%" 
   />
 </p>
-
-<!-- Languages + Productive Time -->
+<!-- Productive Time + Profile Summary -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vkzapple&theme=tokyonight&utcOffset=7" 
     width="49%" 
   />
-</p>
-
-<!-- Profile Summary -->
-<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vkzapple&theme=tokyonight" 
-    width="98%" 
+    width="49%" 
   />
 </p>
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 
     alt="GitHub Contribution Snake"
   />
 </p>
+
 
 ---
 ## Tech Stack
