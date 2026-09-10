@@ -20,9 +20,19 @@
 Software Engineering student at SMK Negeri 1 Jakarta with a focus on data science and machine learning. Experienced across full-stack development, IoT systems, and applied ML — with an interest in building end-to-end solutions from data collection to deployed models.
 
 ## GitHub Stats
- 
-<div align="center">
-</div>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" width="49%" /> 
+</p> 
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="49%" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vkzapple&theme=tokyo-night&hide_border=true" width="49%" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Vkzapple&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" /> 
+</p>
 
 ---
 ## Tech Stack
