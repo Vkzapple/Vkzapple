@@ -19,6 +19,7 @@
 
 Software Engineering student at SMK Negeri 1 Jakarta with a focus on data science and machine learning. Experienced across full-stack development, IoT systems, and applied ML — with an interest in building end-to-end solutions from data collection to deployed models.
 
+## Github Stats
 <!-- GitHub Stats -->
 <p align="center">
   <img 
@@ -34,10 +35,6 @@ Software Engineering student at SMK Negeri 1 Jakarta with a focus on data scienc
 <!-- Languages + Productive Time -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkzapple&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" 
-    width="49%" 
-  />
-  <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vkzapple&theme=tokyonight&utcOffset=7" 
     width="49%" 
   />
@@ -51,34 +48,13 @@ Software Engineering student at SMK Negeri 1 Jakarta with a focus on data scienc
   />
 </p>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vkzapple&theme=tokyo-night&hide_border=true&area=true" 
-    width="98%" 
-  />
-</p>
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vkzapple&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" 
-  />
-</p>
-
-<!-- Profile Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vkzapple&label=Profile%20Views&color=6366f1&style=flat" />
-  <img src="https://img.shields.io/github/followers/Vkzapple?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Vkzapple?label=Stars&style=flat" />
-</p>
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 
     alt="GitHub Contribution Snake"
   />
 </p>
+
 ---
 ## Tech Stack
  
