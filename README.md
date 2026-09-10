@@ -23,37 +23,15 @@
 - 🌱 Always exploring new tools and frameworks to sharpen my engineering craft
 
 ## Github Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/main/metrics.svg" width="98%" />
-</p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff" 
     width="49%" 
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" 
     width="49%" 
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vkzapple&theme=react-dark&hide_border=true&area=true" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vkzapple&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 
-    alt="GitHub Contribution Snake"
   />
 </p>
 
