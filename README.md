@@ -1,23 +1,19 @@
 <!-- HEADER -->
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vkzapple&color=060771" alt="Profile Views" />
-
-<a href="https://evekz.pages.dev">
-  <img src="https://img.shields.io/badge/_Portfolio-060771?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+<img src="https://komarev.com/ghpvc/?username=Vkzapple&color=060771" alt="Profile Views" /> 
+<a href="https://evekz.pages.dev"> 
+  <img src="https://img.shields.io/badge/_Portfolio-060771?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /> 
 </a>
-
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=AEDEFC&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub!;I'm+Evelly+Khanzania+Putri;Software+Engineering+is+My+Passion;Let's+Build+Something+Awesome!" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=AEDEFC&center=true&vCenter=true&width=650&lines=Evelly+Khanzania+Putri;Data+Science+%26+Machine+Learning;Software+Engineer" /> </p> <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRwMWg0a3VuajQ1cHB1azBwYmd1dGh5ejVqa2UxeDFneHNyNmgzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif" width="480" alt="Data Science / Machine Learning Animation"/> 
+  </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="480" alt="Coding GIF"/>
-</p>
+---
 
 ## About Me
 
