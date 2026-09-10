@@ -24,7 +24,6 @@ Software Engineering student at SMK Negeri 1 Jakarta with a focus on data scienc
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
