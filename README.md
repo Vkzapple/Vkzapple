@@ -24,10 +24,14 @@
 
 ## About Me
 
-- 🎓 Software Engineering Student at **SMK Negeri 1 Jakarta**  
-- 💻 **Full-Stack Developer | White Hat | IoT Developer**  
-- 🔐 Passionate about **Data Science, AI, ML, IoT and Software Engineering**  
-- 🌱 Always learning and building new things  
+Software Engineering student at SMK Negeri 1 Jakarta with a focus on data science and machine learning. Experienced across full-stack development, IoT systems, and applied ML — with an interest in building end-to-end solutions from data collection to deployed models.
+
+## GitHub Stats
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
 ## Tech Stack
