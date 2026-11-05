@@ -49,6 +49,13 @@
     width="49%" 
   />
 </p>
+<!-- Tech stack dari semua repo publik (auto-generate daily) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/main/assets/top-langs.svg" 
+    alt="Tech Stack dari semua repo publik" 
+  />
+</p>
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 

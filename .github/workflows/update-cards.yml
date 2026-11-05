@@ -27,7 +27,7 @@ jobs:
         env:
           GH_USER: Vkzapple
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LANG_MODE: repo
+          LANG_MODE: bytes
         run: python generate_cards.py
 
       - name: Commit changes
