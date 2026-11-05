@@ -6,7 +6,6 @@ import requests
 
 USER = os.getenv("GH_USER", "Vkzapple")
 TOKEN = os.getenv("GH_TOKEN")
-# NOTE: kartu di-refresh tiap kali file ini berubah (triggers update-cards workflow)
 MODE = os.getenv("LANG_MODE", "repo")
 OUT = "assets"
 FONT = "'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif"
@@ -20,6 +19,7 @@ LANG_COLORS = {
     "Rust": "#DEA584", "Kotlin": "#A97BFF", "PHP": "#4F5D95", "C#": "#178600",
     "HTML": "#E34C26", "CSS": "#563D7C", "Jupyter Notebook": "#DA5B0B",
     "C++": "#F34B7D", "C": "#555555", "Blade": "#F7523F", "Dart": "#00B4AB",
+    "Arduino": "#734B96",
     "Java": "#B07219", "Shell": "#89E051", "Other": "#8B949E",
 }
 FALLBACK = ["#ea6161", "#ffc64d", "#52fa5a", "#4dfcff", "#c64dff", "#ff8fab"]
@@ -75,8 +75,11 @@ def stats_svg(rows, w=360, h=137):
             f'<rect width="{w}" height="{h}" rx="6" fill="url(#g)"/>{lines}</svg>')
 
 
-def langs_svg(items, w=300, h=137, limit=10):
+def langs_svg(items, w=300, h=137, limit=12):
     items = items[:limit]
+    # Tinggi kartu menyesuaikan jumlah baris legend (2 kolom per baris)
+    rows = (len(items) + 1) // 2
+    h = max(h, 48 + rows * 19 + 13)
     total = sum(v for _, v in items) or 1
     bar, x = "", 20
     bar_w = w - 40
