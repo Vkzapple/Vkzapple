@@ -26,22 +26,8 @@
 - 💡 Passionate about turning raw data into actionable, production-ready solutions
 - 🌱 Always exploring new tools and frameworks to sharpen my engineering craft
 
-## Github Stats
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/main/assets/top-langs.svg" 
-    alt="Tech Stack dari semua repo publik" 
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-
 ---
+
 ## Tech Stack
 
 <p align="center">
@@ -70,6 +56,22 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
+## Github Stats
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/main/assets/top-langs.svg" 
+    alt="Tech Stack dari semua repo publik" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
 
 ---
 
