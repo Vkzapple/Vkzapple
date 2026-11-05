@@ -27,29 +27,6 @@
 - 🌱 Always exploring new tools and frameworks to sharpen my engineering craft
 
 ## Github Stats
-<!-- GitHub Stats -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" 
-    width="49%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" 
-    width="49%" 
-  />
-</p>
-<!-- Productive Time + Profile Summary -->
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vkzapple&theme=tokyonight&utcOffset=7" 
-    width="49%" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vkzapple&theme=tokyonight" 
-    width="49%" 
-  />
-</p>
-<!-- Tech stack dari semua repo publik (auto-generate daily) -->
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/main/assets/top-langs.svg" 
