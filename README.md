@@ -54,8 +54,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
----
-
 ## Connect With Me
 
 <p align="center">
@@ -71,3 +69,18 @@
 </p>
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Vkzapple">
+    <img height="137px" src="https://DOMAIN-KAMU.vercel.app/api?username=Vkzapple&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Evelly's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vkzapple">
+    <img height="137px" src="https://DOMAIN-KAMU.vercel.app/api/top-langs/?username=Vkzapple&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Evelly's Top Languages" />
+  </a>
+</p>
+
+---
+
