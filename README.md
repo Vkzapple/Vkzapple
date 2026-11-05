@@ -30,7 +30,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" 
     width="49%" 
   />
   <img 
