@@ -23,8 +23,40 @@
 - 🚀 Full-stack developer with hands-on experience across **web, mobile, and IoT** systems
 - 🤖 Builds end-to-end ML pipelines from data collection & preprocessing to model deployment
 - 🔌 Experienced integrating **IoT devices** with real-time systems via MQTT & WebSocket
-- 💡 Always exploring new tools and frameworks to sharpen my engineering craft
-  
+- 💡 Passionate about turning raw data into actionable, production-ready solutions
+- 🌱 Always exploring new tools and frameworks to sharpen my engineering craft
+
+## Github Stats
+<!-- GitHub Stats -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vkzapple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" 
+    width="49%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vkzapple&theme=tokyonight&hide_border=true" 
+    width="49%" 
+  />
+</p>
+<!-- Productive Time + Profile Summary -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vkzapple&theme=tokyonight&utcOffset=7" 
+    width="49%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vkzapple&theme=tokyonight" 
+    width="49%" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Vkzapple/Vkzapple/output/github-contribution-grid-snake-dark.svg" 
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+
 ---
 ## Tech Stack
 
@@ -53,6 +85,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
 
 ## Connect With Me
 
@@ -65,20 +100,6 @@
   </a>
   <a href="mailto:evellykhnz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Vkzapple">
-    <img height="137px" src="https://DOMAIN-KAMU.vercel.app/api?username=Vkzapple&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Evelly's GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Vkzapple">
-    <img height="137px" src="https://DOMAIN-KAMU.vercel.app/api/top-langs/?username=Vkzapple&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Evelly's Top Languages" />
   </a>
 </p>
 
