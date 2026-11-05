@@ -6,6 +6,7 @@ import requests
 
 USER = os.getenv("GH_USER", "Vkzapple")
 TOKEN = os.getenv("GH_TOKEN")
+# NOTE: kartu di-refresh tiap kali file ini berubah (triggers update-cards workflow)
 MODE = os.getenv("LANG_MODE", "repo")
 OUT = "assets"
 FONT = "'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif"
